@@ -1,0 +1,7 @@
+{
+  "name": "Meeting Insight Engine",
+  "description": "Enterprise-grade AI that transforms meeting transcripts into structured decisions, risks, and strategic action items.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
